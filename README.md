@@ -1,1 +1,1 @@
-# Smart calender
+# Smart calendar
